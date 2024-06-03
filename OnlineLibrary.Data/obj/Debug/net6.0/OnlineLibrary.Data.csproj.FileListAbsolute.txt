@@ -1,0 +1,34 @@
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.deps.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.runtimeconfig.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.csproj.AssemblyReference.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.AssemblyInfoInputs.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.AssemblyInfo.cs
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.csproj.CopyComplete
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\refint\OnlineLibrary.Data.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.genruntimeconfig.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Data\obj\Debug\net6.0\ref\OnlineLibrary.Data.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.deps.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.runtimeconfig.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Data.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.csproj.AssemblyReference.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.AssemblyInfoInputs.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.AssemblyInfo.cs
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.csproj.CopyComplete
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\refint\OnlineLibrary.Data.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\OnlineLibrary.Data.genruntimeconfig.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Data\obj\Debug\net6.0\ref\OnlineLibrary.Data.dll
