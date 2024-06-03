@@ -1,0 +1,148 @@
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\appsettings.Development.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\appsettings.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.exe
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.deps.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.runtimeconfig.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.AssemblyInfoInputs.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.AssemblyInfo.cs
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.csproj.CoreCompileInputs.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.OnlineLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineLibrary.props
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineLibrary.props
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineLibrary.props
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets.build.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\staticwebassets.development.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\scopedcss\bundle\OnlineLibrary.styles.css
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\refint\OnlineLibrary.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.genruntimeconfig.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\ref\OnlineLibrary.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.csproj.AssemblyReference.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Data.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Repositories.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Services.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Services.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Data.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Repositories.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.csproj.CopyComplete
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\appsettings.Development.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\appsettings.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.exe
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.deps.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.runtimeconfig.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Data.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Repositories.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Services.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Services.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Data.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\bin\Debug\net6.0\OnlineLibrary.Repositories.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.csproj.AssemblyReference.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.AssemblyInfoInputs.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.AssemblyInfo.cs
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.csproj.CoreCompileInputs.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.OnlineLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineLibrary.props
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineLibrary.props
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineLibrary.props
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets.build.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\staticwebassets.development.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\scopedcss\bundle\OnlineLibrary.styles.css
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.csproj.CopyComplete
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\refint\OnlineLibrary.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\OnlineLibrary.genruntimeconfig.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary\obj\Debug\net6.0\ref\OnlineLibrary.dll
