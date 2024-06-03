@@ -1,0 +1,22 @@
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.deps.json
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.AssemblyInfoInputs.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.AssemblyInfo.cs
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\refint\OnlineLibrary.Domain.dll
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Fundamentos da programação em C#\Exercicios\Ficha14\OnlineLibrary.Domain\obj\Debug\net6.0\ref\OnlineLibrary.Domain.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.deps.json
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.AssemblyInfoInputs.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.AssemblyInfo.cs
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\refint\OnlineLibrary.Domain.dll
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Curso\Backend\Exercicios\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\ref\OnlineLibrary.Domain.dll
