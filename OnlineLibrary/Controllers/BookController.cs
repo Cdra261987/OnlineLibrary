@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using OnlineLibrary.Domain.Entities;
 using OnlineLibrary.Services.Interfaces;
-using System.Diagnostics.Eventing.Reader;
+using OnlineLibrary.Data.Entities;
 
 namespace OnlineLibrary.Controllers
 {
@@ -29,12 +28,17 @@ namespace OnlineLibrary.Controllers
       return _bookService.GetById(id);
     }
     
-    [HttpPost]
-    public Book Save(Book book) 
+    [HttpPost("create")]
+    public Book Create(Book book) 
     {
-      return _bookService.Save(book);
+      return _bookService.CreateBook(book);
     }
-  
+    
+    [HttpPost("update")]
+    public Book Update(Book book) 
+    {
+      return _bookService.UpdateBook(book);
+    }
   
     [HttpDelete("{id}")]
     public void Remove(int id) 

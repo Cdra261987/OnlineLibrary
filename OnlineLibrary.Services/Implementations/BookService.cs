@@ -1,52 +1,54 @@
-﻿using Microsoft.EntityFrameworkCore;
-using OnlineLibrary.Domain.Entities;
+﻿using OnlineLibrary.Data.Entities;
 using OnlineLibrary.Repositories.Interfaces;
 using OnlineLibrary.Services.Interfaces;
-using System.Security.Cryptography.X509Certificates;
 
 namespace OnlineLibrary.Services.Implementations
 {
-	public class BookService : IBookService
-	{
-		private readonly IBookRepository _bookRepository;
+    public class BookService : IBookService
+    {
+        private readonly IRepository<Book> _bookRepository;
 
-        public BookService(IBookRepository bookRepository)
+        public BookService(IRepository<Book> bookRepository)
         {
-             _bookRepository = bookRepository;
+            _bookRepository = bookRepository;
         }
- 
+
         public List<Book> GetAll()
         {
-          return _bookRepository.GetAll();
+            return _bookRepository.GetAll();
         }
 
-		      public Book GetById(int id)
-		      {
-			        return _bookRepository.GetById(id);
-		      }
+        public Book GetById(int id)
+        {
+            return _bookRepository.GetById(id);
+        }
 
 
-		      public Book Save(Book book) 
-        { 
-            if (book.Id == 0) 
-            { 
-              return _bookRepository.Add(book);
-            }
-            else 
-            {
-              return _bookRepository.Update(book);
-            }
+        public Book CreateBook(Book book)
+        {
+            _bookRepository.Add(book);
+            var changes = _bookRepository.SaveChanges();
 
+            if (changes == 0)
+                throw new InvalidOperationException($"Failed to create book with title {book.Title}");
 
+            return book;
         }
         
-        public void Remove (int id) 
-        { 
-         Book book = _bookRepository.GetById(id);
-         _bookRepository.Remove(book);
-         
+        public Book UpdateBook(Book book)
+        {
+            _bookRepository.Update(book);
+            var changes = _bookRepository.SaveChanges();
+
+            if (changes == 0)
+                throw new InvalidOperationException($"Failed to create book with title {book.Title}");
+
+            return book;
         }
 
-
-	}
+        public void Remove(int id)
+        {
+            _bookRepository.Delete(id);
+        }
+    }
 }

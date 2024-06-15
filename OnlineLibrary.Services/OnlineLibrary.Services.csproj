@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OnlineLibrary.Repositories\OnlineLibrary.Repositories.csproj" />
+    <ProjectReference Include="..\OnlineLibrary.Data\OnlineLibrary.Data.csproj" />
   </ItemGroup>
 
 </Project>

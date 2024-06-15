@@ -1,13 +1,14 @@
-﻿using OnlineLibrary.Domain.Entities;
+﻿using OnlineLibrary.Data.Entities;
 
 namespace OnlineLibrary.Services.Interfaces
 {
 	public interface ICustomerService 
 	{
-  List<Customer> GetAll();
+		List<Customer> GetAll();
+		Customer GetById(int id);
+		Customer Create(Customer customer);
+		Customer Update(Customer customer);
 
-	 Customer GetById(int id);
-		Customer Save(Customer costumer);
 		void Remove(int id);
 	}
 }
