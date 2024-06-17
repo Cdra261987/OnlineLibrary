@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using OnlineLibrary.Domain.Entities;
-using OnlineLibrary.Repositories.Implementations;
+﻿using OnlineLibrary.Data.Entities;
 using OnlineLibrary.Repositories.Interfaces;
 using OnlineLibrary.Services.Interfaces;
 
@@ -8,9 +6,9 @@ namespace OnlineLibrary.Services.Implementations
 {
 	public class CustomerService : ICustomerService
 	{
-		private readonly ICustomerRepository _customerRepository;
+		private readonly IRepository<Customer> _customerRepository;
 
-		public CustomerService(ICustomerRepository customerRepository)
+		public CustomerService(IRepository<Customer> customerRepository)
 		{
 			_customerRepository = customerRepository;
 		}
@@ -24,23 +22,33 @@ namespace OnlineLibrary.Services.Implementations
 		{
 			return _customerRepository.GetById(id);
 		}
-		public Customer Save(Customer customer)
+
+		public Customer Create(Customer customer)
 		{
-			if (customer.Id == 0)
-			{
-				return _customerRepository.Add(customer);
-			}
-			else
-			{
-				return _customerRepository.Update(customer);
-			}
+			_customerRepository.Add(customer);
+			var changes = _customerRepository.SaveChanges();
+
+			if (changes == 0)
+				throw new InvalidOperationException($"Failed to create customer with name {customer.Name}");
+
+			return customer;
 		}
+
+		public Customer Update(Customer customer)
+		{
+			_customerRepository.Update(customer);
+			var changes = _customerRepository.SaveChanges();
+
+			if (changes == 0)
+				throw new InvalidOperationException($"Failed to create customer with name {customer.Name}");
+
+			return customer;
+		}
+		
 
 		public void Remove(int id)
 		{
-			Customer customer = _customerRepository.GetById(id);
-			_customerRepository.Remove(customer);
-
+			_customerRepository.Delete(id);
 		}
 
 

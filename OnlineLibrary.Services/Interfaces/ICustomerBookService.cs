@@ -1,13 +1,14 @@
-﻿using OnlineLibrary.Domain.Entities;
+﻿using OnlineLibrary.Data.Entities;
 
 namespace OnlineLibrary.Services.Interfaces
 {
 	public interface ICustomerBookService
 	{
-  List<CustomerBook> GetAll();
+		List<CustomerBook> GetAll();
 
 		CustomerBook GetById(int id);
-		CustomerBook Save(CustomerBook costumerbock);
+		CustomerBook CreateCustomerBook(CustomerBook costumerbock);
+		CustomerBook UpdateCustomerBook(CustomerBook costumerbock);
 		void Remove(int id);
 	}
 }

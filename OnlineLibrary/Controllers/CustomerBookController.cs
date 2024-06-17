@@ -1,8 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using OnlineLibrary.Data.Context;
-using OnlineLibrary.Domain.Entities;
-using OnlineLibrary.Repositories.Implementations;
-using OnlineLibrary.Services.Implementations;
+using OnlineLibrary.Data.Entities;
 using OnlineLibrary.Services.Interfaces;
 
 namespace OnlineLibrary.Controllers
@@ -21,7 +18,7 @@ namespace OnlineLibrary.Controllers
 
 		}
 		
-   [HttpGet]
+		[HttpGet]
 		 public List<CustomerBook> GetAll()
 		 {
 			return _customerbookService.GetAll();
@@ -33,12 +30,18 @@ namespace OnlineLibrary.Controllers
 			return _customerbookService.GetById(id);
 		 }
 
-		 [HttpPost]
-		 public CustomerBook Save(CustomerBook customerbook)
+		 [HttpPost("create")]
+		 public CustomerBook Create(CustomerBook customerbook)
 		 {
-			return _customerbookService.Save(customerbook);
+			return _customerbookService.CreateCustomerBook(customerbook);
 		 }
-
+		 
+		 [HttpPost("update")]
+		 public CustomerBook Update(CustomerBook customerbook)
+		 {
+			 return _customerbookService.UpdateCustomerBook(customerbook);
+		 }
+		 
 		 [HttpDelete("{id}")]
 		 public void Remove(int id)
 		 {
